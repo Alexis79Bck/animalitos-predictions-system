@@ -1,3 +1,6 @@
 [submodule "data-pipeline"]
 	path = data-pipeline
 	url = https://github.com/Alexis79Bck/data-pipeline
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/Alexis79Bck/backend-api
