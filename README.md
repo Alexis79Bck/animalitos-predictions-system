@@ -102,9 +102,9 @@ git push origin feature/nueva-funcionalidad
 
 ### Checklis antes PR
 
-* [] Tests ejecutados y pasados.
-* [] Documentación actualizada.
-* [] Código formateado según convenciones.
+* [ ] Tests ejecutados y pasados.
+* [ ] Documentación actualizada.
+* [ ] Código formateado según convenciones.
 ---
 
 ## 🛣️ Roadmap (sugerencia inicial y puede ser modificado segun la evolucion del proyecto)
